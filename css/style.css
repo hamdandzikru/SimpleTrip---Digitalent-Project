@@ -5,11 +5,7 @@
   font-weight: normal;
   font-style: normal;
 }
-/* =======================================================
-*
-* 	Template Style 
-*
-* ======================================================= */
+
 body {
   font-family: "Open Sans", Arial, sans-serif;
   font-weight: 400;
@@ -1295,5 +1291,3 @@ form label {
 .js .animate-box {
   opacity: 0;
 }
-
-/*# sourceMappingURL=style.css.map */
